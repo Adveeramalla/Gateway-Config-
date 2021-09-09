@@ -1,0 +1,30 @@
+[
+    {
+        "entry": [
+            {
+                "name": "deloitte",
+                "value": "deloitte.com"
+            },
+            {
+                "name": "angrus",
+                "value": "stackoverflow.com"
+            }
+        ],
+
+        "name": "kvm-entity"      
+    }, 
+	    {
+        "entry": [
+            {
+                "name": "deloitte",
+                "value": "deloitte.com"
+            },
+            {
+                "name": "angrus_3",
+                "value": "stackoverflow.com"
+            }
+        ],
+
+        "name": "KVM-test3"      
+    }
+]
